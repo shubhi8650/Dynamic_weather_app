@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shubhi8650.github.io/Dynamic_weather_app/static/css/main.3d16747c.chunk.css",
-    "main.js": "/shubhi8650.github.io/Dynamic_weather_app/static/js/main.94454f1e.chunk.js",
-    "main.js.map": "/shubhi8650.github.io/Dynamic_weather_app/static/js/main.94454f1e.chunk.js.map",
-    "runtime-main.js": "/shubhi8650.github.io/Dynamic_weather_app/static/js/runtime-main.2a78c291.js",
-    "runtime-main.js.map": "/shubhi8650.github.io/Dynamic_weather_app/static/js/runtime-main.2a78c291.js.map",
-    "static/js/2.8149fab0.chunk.js": "/shubhi8650.github.io/Dynamic_weather_app/static/js/2.8149fab0.chunk.js",
-    "static/js/2.8149fab0.chunk.js.map": "/shubhi8650.github.io/Dynamic_weather_app/static/js/2.8149fab0.chunk.js.map",
-    "static/js/3.ab24dc6c.chunk.js": "/shubhi8650.github.io/Dynamic_weather_app/static/js/3.ab24dc6c.chunk.js",
-    "static/js/3.ab24dc6c.chunk.js.map": "/shubhi8650.github.io/Dynamic_weather_app/static/js/3.ab24dc6c.chunk.js.map",
-    "index.html": "/shubhi8650.github.io/Dynamic_weather_app/index.html",
-    "static/css/main.3d16747c.chunk.css.map": "/shubhi8650.github.io/Dynamic_weather_app/static/css/main.3d16747c.chunk.css.map",
-    "static/js/2.8149fab0.chunk.js.LICENSE.txt": "/shubhi8650.github.io/Dynamic_weather_app/static/js/2.8149fab0.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/shubhi8650.github.io/Dynamic_weather_app/static/media/warm-bg.a7f83012.jpg"
+    "main.css": "/Dynamic_weather_app/static/css/main.b60e47bc.chunk.css",
+    "main.js": "/Dynamic_weather_app/static/js/main.94454f1e.chunk.js",
+    "main.js.map": "/Dynamic_weather_app/static/js/main.94454f1e.chunk.js.map",
+    "runtime-main.js": "/Dynamic_weather_app/static/js/runtime-main.95765ea9.js",
+    "runtime-main.js.map": "/Dynamic_weather_app/static/js/runtime-main.95765ea9.js.map",
+    "static/js/2.8149fab0.chunk.js": "/Dynamic_weather_app/static/js/2.8149fab0.chunk.js",
+    "static/js/2.8149fab0.chunk.js.map": "/Dynamic_weather_app/static/js/2.8149fab0.chunk.js.map",
+    "static/js/3.ab24dc6c.chunk.js": "/Dynamic_weather_app/static/js/3.ab24dc6c.chunk.js",
+    "static/js/3.ab24dc6c.chunk.js.map": "/Dynamic_weather_app/static/js/3.ab24dc6c.chunk.js.map",
+    "index.html": "/Dynamic_weather_app/index.html",
+    "static/css/main.b60e47bc.chunk.css.map": "/Dynamic_weather_app/static/css/main.b60e47bc.chunk.css.map",
+    "static/js/2.8149fab0.chunk.js.LICENSE.txt": "/Dynamic_weather_app/static/js/2.8149fab0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Dynamic_weather_app/static/media/warm-bg.a7f83012.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a78c291.js",
+    "static/js/runtime-main.95765ea9.js",
     "static/js/2.8149fab0.chunk.js",
-    "static/css/main.3d16747c.chunk.css",
+    "static/css/main.b60e47bc.chunk.css",
     "static/js/main.94454f1e.chunk.js"
   ]
 }
